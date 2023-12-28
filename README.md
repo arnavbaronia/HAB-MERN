@@ -57,7 +57,39 @@ This project is a Healthcare Appointment System built using the MERN stack (Mong
 
 Follow these steps to download and run the MERN stack project:
 
-1. **Clone the Repository:**
+## How to run 
+1\. Install Dependencies: Navigate to the server and client directories
+separately and run:
+
+cd server npm install
+
+cd client npm install
+
+2.Configure Environment Variables: Create a .env file in the server
+directory with the following content: makefile
+
+MONGO_URI=your_mongodb_connection_string SECRET_KEY=your_secret_key
+
+3.Run the Server: In the server directory, run:
+
+npm start Run the Client:
+
+In the client directory, run: npm start
+
+4.Access the Application: Open your browser and go to
+http://localhost:3000 to use the Healthcare Appointment System. Admin
+Dashboard:
+
+Access the admin dashboard at http://localhost:3000/admin and log in
+with administrator credentials.
+
+Connect with Arnav Baronia LinkedIn:
+https://www.linkedin.com/in/arnav-baronia-379b57234/ LeetCode:
+https://leetcode.com/arnavbaronia/
+
+**Clone the Repository:**
    ```bash
    git clone https://github.com/your-username/healthcare-appointment-system.git
    cd healthcare-appointment-system
+   bash
+
