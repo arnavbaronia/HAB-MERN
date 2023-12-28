@@ -2,6 +2,8 @@
 
 This project is a Healthcare Appointment System built using the MERN stack (MongoDB, Express.js, React, and Node.js). It includes user authentication, different user roles, appointment booking functionality, an admin dashboard, and profile management.
 
+**Note:** This project was built by a team of 5 people during our internship at ETHNUS.
+
 ## Features
 
 ### User Authentication:
